@@ -25,3 +25,5 @@ Enter your second number: 7
 6  *  7
 
 42
+
+Source: https://www.digitalocean.com/community/tutorials/how-to-make-a-calculator-program-in-python-3
