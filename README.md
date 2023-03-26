@@ -12,3 +12,15 @@ Then follow the prompts:
 * for multplication
 / for division
 ^ for exponentiation
+
+
+the output should look similar to this : 
+
+Please enter the operation you wish to apply +, -, *, /, ^ : *
+
+Enter your first number: 6
+
+Enter your second number: 7
+
+6  *  7
+42
