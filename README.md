@@ -1,5 +1,5 @@
 # PythonCalculator
-This application is meant to be run from the command line by having the path defined to the correct directory or by starting in that directory. 
+This application is meant to be run from powershell by starting in the directory that holds the file. 
 
 example: cd C:\PythonCalculator\scripts
 
