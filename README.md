@@ -1,6 +1,8 @@
 # PythonCalculator
 This application is meant to be run from the command line by having the path defined to the correct directory or by starting in that directory. 
 
+example: cd C:\PythonCalculator\scripts
+
 Then to run the application type: python calculator.py
 
 Then follow the prompts:
