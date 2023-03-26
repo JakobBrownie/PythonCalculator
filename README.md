@@ -16,11 +16,11 @@ Then follow the prompts:
 
 the output should look similar to this : 
 
-Please enter the operation you wish to apply +, -, *, /, ^ : *
+- Please enter the operation you wish to apply +, -, *, /, ^ : *
 
-Enter your first number: 6
+- Enter your first number: 6
 
-Enter your second number: 7
+- Enter your second number: 7
 
-6  *  7
-42
+- 6  *  7
+- 42
